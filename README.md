@@ -2,7 +2,7 @@
 
 #### By Todd Pangilinan
 
-Website of my coding experience
+Website for author Mark Russell
 
 ## Technologies used:
 
