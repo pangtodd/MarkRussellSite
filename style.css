@@ -55,6 +55,10 @@ html *{
   color: white;
 }
 
+.bio_text {
+  font-size: 1.5rem
+}
+
 #about,
 #skills,
 #projects,
