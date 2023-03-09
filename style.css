@@ -1,0 +1,91 @@
+.logo {
+  max-width: 20%;
+  max-height: auto;
+  padding:2rem;
+}
+
+.navbarScroll, .navbarDark {
+  background-color: black;
+}
+
+a:link {
+  color: rgb(105,191,74);
+  text-decoration: underline;
+}
+a:visited {
+  color: rgb(147, 53, 141);
+}
+
+.bgimage {
+  height: 100vh;
+  background: url("images/BFStorefront.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.hero_title {
+  font-size: 4.5rem;
+}
+
+.hero_desc {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.tagline-text {
+  position: absolute;
+  text-align: left;
+  top: 40%;
+  left: 40%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+/* .hero-text {
+  position: absolute;
+  text-align: right;
+  text-size-adjust: 3.5 rems;
+  top: 80%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  color: rgb(32, 95, 23);
+  background-color: black;
+} */
+
+#title{
+  text-align: center;
+  font-weight: bold;
+}
+
+#about {
+  padding-top: 4rem;
+  font-size: 1.5rem;
+}
+
+#services,
+#sales,
+#contact {
+  margin-top: 4rem;
+  padding-top: 4rem;
+  font-size: 1.5rem;
+}
+
+.bikeImg {
+  max-width: 100%;
+  max-height: auto;
+}
+
+.bikeImg3 {
+  max-width: 30%;
+  max-height: auto;
+}
+
+#footer {
+  background-color: black;
+  color: whitesmoke;
+}
+
+.credit {
+  text-align: center;
+}
