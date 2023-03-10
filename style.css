@@ -61,7 +61,7 @@ html *{
 
 #about,
 #skills,
-#projects,
+#books,
 #contact {
   margin-top: 4rem;
   padding-top: 4rem;
@@ -69,7 +69,7 @@ html *{
 
 .card-body {
   display: grid;
-  background-color: black;
+  /* background-color: black; */
 }
 
 .btn {
@@ -81,10 +81,11 @@ html *{
 }
 
 .imageAboutPage {
-  width: 100%;
+  width: 65%;
+  margin-left: 5rem;
 }
 
-.portfolioContent.card {
+.bookContent.card {
   height: 580px;
 }
 
