@@ -16,4 +16,4 @@
   * https://www.salon.com/2019/06/10/snagglepuss-lgbt-hero-legendary-hanna-barbera-character-reborn-in-new-comic-series/
 * crop images at https://croppola.com/, previously used auto settings: ratio 4:3, crop size: small for cards.
 * use https://www.opengraph.xyz/ to check the social media preview, and generate preview code for Twitter, etc.
-
+* card animations: https://blog.avada.io/css/card-hover-effects#css-flip-card-hover-effect-keith
