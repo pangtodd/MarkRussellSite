@@ -11,8 +11,7 @@ html *{
 
 }
 
-.navbarScroll,
-.navbarDark {
+.navbarScroll.navbarDark {
   background-color: black;
 }
 
@@ -236,3 +235,5 @@ html *{
 .card .details .center ul li a:hover {
   background: #ff3636;
 }
+
+/* <- hero slider css-> */
