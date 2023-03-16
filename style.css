@@ -20,46 +20,46 @@ html *{
   background: black;
 }
 
-.bgimage {
+/* .bgimage {
   height: 100vh;
   background: url("images/herobackground\ Test.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   position: relative;
-}
+} */
 
-.hero_title {
+/* .hero_title {
   font-size: 4.5rem;
 }
 
 .hero_desc {
   font-size: 1.5rem;
-}
+} */
 
-.tagline-text {
+/* .tagline-text {
   position: absolute;
   text-align: left;
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-}
+} */
 
-.hero-text {
+/* .hero-text {
   position: absolute;
   text-align: right;
   top: 90%;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
-}
+} */
 
 .bio_text {
   font-size: 1.5rem
 }
 
 #about,
-#skills,
+#press,
 #books,
 #contact {
   margin-top: 4rem;
@@ -93,11 +93,11 @@ html *{
   cursor: pointer;
 }
 
-.skillsIcon {
+/* .skillsIcon {
   font-size: 36px;
   text-align: center;
   width: 100%;
-}
+} */
 
 .text-center {
   display: flex;
@@ -115,29 +115,29 @@ html *{
   text-align: center;
 }
 
-.card:hover .servicesIcon {
+/* .card:hover .servicesIcon {
   color: #008000;
-}
+} */
 
-.skillsText:hover {
+/* .skillsText:hover {
   border: 1px solid #008000;
-}
+} */
 
-.pdx {
+/* .pdx {
   width: 100%;
   height: auto;
-}
+} */
 
-.social-icons {
+/* .social-icons {
   font-size: 36px;
   cursor: pointer;
-}
+} */
 
-.fa-github:hover,
+/* .fa-github:hover,
 .fa-linkedin:hover,
 .fa-envelope:hover {
   color: #008000;
-}
+} */
 
 .fab {
   color: #000000;
