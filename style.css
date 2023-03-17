@@ -11,7 +11,7 @@ html *{
 }
 
 .cardLink {
-  text-decoration:
+  text-decoration: none;
 }
 
 .navbarScroll.navbarDark {
@@ -148,9 +148,10 @@ html *{
 }
 
 #footer {
-  background-color: #808080;
+  /* background-color: #808080; */
   text-align: center;
-  /* background;black; */
+  background-color: black;
+  color: white
 }
 
 /* <- card stuff-> */
@@ -192,7 +193,7 @@ html *{
   transform: perspective(2000px) rotateY(0deg);
 }
 .card .details .center {
-  padding: 20px;
+  padding: 5px;
   text-align: center;
   background: #fff;
   position: absolute;
