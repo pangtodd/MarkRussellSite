@@ -8,7 +8,10 @@ html *{
   font-size: 1.5rem;
   color: white;
   text-decoration: none;
+}
 
+.cardLink {
+  text-decoration:
 }
 
 .navbarScroll.navbarDark {
@@ -19,6 +22,7 @@ html *{
   color: white;
   background: black;
 }
+
 
 /* .bgimage {
   height: 100vh;
