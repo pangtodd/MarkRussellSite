@@ -18,45 +18,6 @@ html *{
   background-color: black;
 }
 
-.darkmode {
-  color: white;
-  background: black;
-}
-
-
-/* .bgimage {
-  height: 100vh;
-  background: url("images/herobackground\ Test.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
-  position: relative;
-} */
-
-/* .hero_title {
-  font-size: 4.5rem;
-}
-
-.hero_desc {
-  font-size: 1.5rem;
-} */
-
-/* .tagline-text {
-  position: absolute;
-  text-align: left;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-} */
-
-/* .hero-text {
-  position: absolute;
-  text-align: right;
-  top: 90%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color: white;
-} */
 
 .bio_text {
   font-size: 1.5rem
@@ -72,7 +33,6 @@ html *{
 
 .card-body {
   display: grid;
-  /* background-color: black; */
 }
 
 .btn {
@@ -92,20 +52,8 @@ html *{
   height: 400px;
 }
 
-.skillsText.card {
-  height: 310px;
-  cursor: pointer;
-}
-
-/* .skillsIcon {
-  font-size: 36px;
-  text-align: center;
-  width: 100%;
-} */
-
 .text-center {
   display: flex;
-  /* margin: mt-auto; */
   justify-content: center;
   align-items: flex-end;
 }
@@ -119,36 +67,8 @@ html *{
   text-align: center;
 }
 
-/* .card:hover .servicesIcon {
-  color: #008000;
-} */
-
-/* .skillsText:hover {
-  border: 1px solid #008000;
-} */
-
-/* .pdx {
-  width: 100%;
-  height: auto;
-} */
-
-/* .social-icons {
-  font-size: 36px;
-  cursor: pointer;
-} */
-
-/* .fa-github:hover,
-.fa-linkedin:hover,
-.fa-envelope:hover {
-  color: #008000;
-} */
-
-.fab {
-  color: #000000;
-}
 
 #footer {
-  /* background-color: #808080; */
   text-align: center;
   background-color: black;
   color: white
@@ -165,6 +85,7 @@ html *{
   height: 400px;
   background: #000;
 } */
+
 .card .image {
   width: 100%;
   height: 100%;
@@ -241,4 +162,3 @@ html *{
   background: #ff3636;
 }
 
-/* <- hero slider css-> */
