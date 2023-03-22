@@ -166,18 +166,27 @@ html *{
   position: relative;
   height: 0;
   overflow: hidden;
-  padding-top: 75%;
-  /* padding-bottom: 75%; */
-}
-.responsive-google-slides iframe {
+  padding-bottom: 75%;
+} 
+ .responsive-google-slides iframe {
   border: 0;
   position: absolute;
-  top: -0;
-  left: 0;
+  bottom: -2px;
+  right: -2px;
   width: 100%;
   max-width: 1200px;
   max-height: 900px;
   height: 100%;
-  /* background-color: white; */
+  border: 0;
+  
 }
+
+/* .responsive-google-slides {
+  aspect-ratio: 4/3;
+}
+   
+.responsive-google-slides iframe {
+ width: 100%;
+ height: 100%;
+} */
 
