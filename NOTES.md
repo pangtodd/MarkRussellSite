@@ -19,3 +19,4 @@
 * card animations: https://blog.avada.io/css/card-hover-effects#css-flip-card-hover-effect-keith
 * image sizing: https://dev.to/flores8/guide-to-properly-size-your-hero-images-and-optimize-them-for-site-speed-39a4
 * should we include a FAQ section?
+* iframe adjustment: https://stackoverflow.com/questions/19794000/removing-black-borders-on-a-vimeo-iframe-embed-using-css
