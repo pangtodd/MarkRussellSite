@@ -97,13 +97,13 @@ html *{
 }
 .card:hover .image img {
   opacity: .5;
-  transform: translateX(30%);/*100%*/
+  transform: translateX(30%);
 }
 .card .details {
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;/*100%*/
+  width: 100%;
   height: 100%;
   background: rgb(84, 154, 110);
   transition: .75s;
@@ -161,52 +161,3 @@ html *{
 .card .details .center ul li a:hover {
   background: #ff3636;
 }
-
-.responsive-google-slides {
-  position: relative;
-  height: 0;
-  overflow: hidden;
-  padding-bottom: 78.02%;
-  padding-top: 0px;
-  margin-right: auto;
-  margin-left: auto;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  max-width: 98%;
-} 
- .responsive-google-slides iframe {
-  /* border: 0;
-  position: absolute;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  bottom: -2px;
-  right: -2px; 
-  height: 100%;  
-  max-width: 1200px;
-  max-height: 900px; */
-  /* border: 3px solid black; */
-  position: absolute;
-  /* left: 50%;
-  top: 50%; */
-  bottom: -3px;
-  right: -3px;
-  /* transform: translate(-50%, -50%); */
-  /* bottom: -2px;
-  right: -2px;  */
-  width: calc(100% + 6px);
-  height: calc(100% + 3px);
-  max-width: 1200px;
-  max-height: 900px;
-}
-
-/* .responsive-google-slides {
-  aspect-ratio: 4/3;
-}
-   
-.responsive-google-slides iframe {
- width: 100%;
- height: 100%;
-} */
-
