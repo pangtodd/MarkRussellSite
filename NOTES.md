@@ -20,3 +20,4 @@
 * image sizing: https://dev.to/flores8/guide-to-properly-size-your-hero-images-and-optimize-them-for-site-speed-39a4
 * should we include a FAQ section?
 * iframe adjustment: https://stackoverflow.com/questions/19794000/removing-black-borders-on-a-vimeo-iframe-embed-using-css
+* link to Google calendar: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=NzljZmRlMjRmYjY5NjE0YTQzMzc5NzcyMjI0OGIxZDk0NDJkMWU0MjRiMzQyMzdiOTQxYzYwYjRiZTE2ZmEwZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%237CB342
