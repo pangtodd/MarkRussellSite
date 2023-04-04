@@ -26,6 +26,8 @@ html *{
 #about,
 #press,
 #comingSoon,
+#appearances1,
+#appearances2,
 #books,
 #contact {
   margin-top: 4rem;
@@ -162,3 +164,22 @@ html *{
 .card .details .center ul li a:hover {
   background: #ff3636;
 }
+
+/* responsive calendar */
+.responsiveCal {
+  position: relative; padding-bottom: 75%; height: 0; overflow: hidden;
+  }
+   
+  .responsiveCal iframe {
+  position: absolute; top:0; left: 0; width: 100%; height: 100%;
+  }
+  
+  @media all and (min-width: 768px) {
+      .deskContent {display:block;}
+      .phoneContent {display:none;}
+  }
+  
+  @media all and (max-width: 767px) {
+      .deskContent {display:none;}
+      .phoneContent {display:block;}
+  }
