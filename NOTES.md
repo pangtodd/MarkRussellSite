@@ -23,3 +23,5 @@
 * link to Google calendar: https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&src=NzljZmRlMjRmYjY5NjE0YTQzMzc5NzcyMjI0OGIxZDk0NDJkMWU0MjRiMzQyMzdiOTQxYzYwYjRiZTE2ZmEwZEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=ZW4udXNhI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%23AD1457&color=%237CB342
 * link to Google doc: 
 * responsive calendar article: https://www.mpking.com/2021/04/making-google-calendar-embeddable.html
+* for animation of show/hide div: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_js_collapsible_animate
+* also consider caving and just using the exisitng Bootstrap collapse.
