@@ -574,7 +574,9 @@
             </div>
           </div>
         </div>
-        <div class="d-none" id="collapser">
+
+        <!-- <div class="d-none" id="collapser"> -->
+        <div class="collapse" style="transition: 2s;" id="collapser">
           <div class="row">
             <div class="col-lg-3 mt-3">
               <div class="card">
@@ -887,9 +889,14 @@
         <div>
           <br>
           <p class="text-center">
-            <button class="btn btn-success" type="button" id="showHide" aria-expanded="false" aria-controls="collapseElement">
+            <!-- <button class="btn btn-success" type="button" id="showHide" aria-expanded="false" aria-controls="collapseElement">
               more books
-            </button>
+            </button> -->
+            <p class = text-center>
+              <button class="btn btn-success" type="button" data-bs-toggle="collapse" data-bs-target="#collapser" aria-expanded="false" aria-controls="collapseExample">
+                More books
+              </button>
+            </p>
           </p>
         </div>
       </div>
