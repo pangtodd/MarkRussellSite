@@ -160,7 +160,7 @@
               <a
                 class="nav-link"
                 href="https://twitter.com/Manruss"
-                alt="Twitter link for Mark Russell"
+                aria-label="Twitter link for Mark Russell"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -181,7 +181,7 @@
               <a
                 class="nav-link"
                 href="https://www.instagram.com/manruss/"
-                alt="Instagram Link for Mark Russell"
+                aria-label="Instagram Link for Mark Russell"
               >
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -940,12 +940,14 @@
           <br />
           <p class="text-center">
             <button
+              id="moreBooks"
               class="btn btn-success"
               type="button"
               data-bs-toggle="collapse"
               data-bs-target="#collapser"
               aria-expanded="false"
               aria-controls="collapse"
+              aria-label="expand display of books"
             >
               <!-- filled in via css -->
             </button>
@@ -962,6 +964,8 @@
           style="
             border-top: 2px solid black;
             border-left: 2px solid black;
+            border-right: 1px solid black;
+            border-bottom: 1px solid black;
             position: relative;
             padding-bottom: 75%;
             height: 0;
@@ -979,6 +983,7 @@
             allowfullscreen="allowfullscreen"
             webkitallowfullscreen="webkitallowfullscreen"
             mozallowfullscreen="mozallowfullscreen"
+            aria-label="image to Mark Russell's newest project"
           ></iframe>
         </div>
       </div>
@@ -989,10 +994,9 @@
         <h1>Coming Soon: items for sale</h1>
         <img
         src="images/crap.jpeg"
-        class="imageAboutPage"
+        class="rounded mx-auto d-block"
         alt="Flinstones panel of guy talking about loving his 'crap'"
         />
-        <p>Flinstones</p>
         <h4><br/>Check back soon for autographed books, one-of-kind collectables, and items sure to surprise and delight!</h4>
       </div>
     </section>
