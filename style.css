@@ -167,10 +167,10 @@ html *{
 /* collapse stuff */
 
 
-[data-bs-toggle="collapse"][aria-expanded="false"]::after {
+#moreBooks[data-bs-toggle="collapse"][aria-expanded="false"]::after {
   content: "more books";
 }
 
-[data-bs-toggle="collapse"][aria-expanded="true"]::after {
+#moreBooks[data-bs-toggle="collapse"][aria-expanded="true"]::after {
   content: "less books";
 }
