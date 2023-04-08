@@ -16,16 +16,3 @@ const menuToggle = document.getElementById('navbarSupportedContent')
 navLinks.forEach((l) => {
     l.addEventListener('click', () => { new bootstrap.Collapse(menuToggle).toggle() })
 })
-
-// toggle button for showing more books div
-const collapser = document.querySelector('#collapser');
-const showHide = document.querySelector('#showHide');
-
-showHide.addEventListener('click', () => {
-    collapser.classList.toggle('d-none');
-    if (collapser.classList.contains('d-none')) {
-        showHide.textContent = 'More Books';
-    } else {
-        showHide.textContent = 'Less books';
-    }
-});
