@@ -1,4 +1,4 @@
 [[headers]]
   for = "/*"
   [headers.values]
-    Content-Security-Policy = "frame-src 'self' "https://docs.google.com/presentation/d/e/2PACX-1vQ1CX7vZhu3AD_s3eXOuzLck6jA5GtNQV5LTWmzHCCAMEtpmPWWVYkMUwR0EpEbsQKDELErSFq-c2qC/embed?start=false&loop=false&delayms=5000&rm=minimal;"
+    Content-Security-Policy = "frame-src 'self' https://docs.google.com/presentation/d/e/2PACX-1vQ1CX7vZhu3AD_s3eXOuzLck6jA5GtNQV5LTWmzHCCAMEtpmPWWVYkMUwR0EpEbsQKDELErSFq-c2qC/embed?start=false&loop=false&delayms=5000&rm=minimal;"
